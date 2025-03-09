@@ -16,6 +16,7 @@ NUS CS4218 - Software Testing
 ### Project Milestone 3: Performance Testing
 - Performance Tests
 
+---
 
 # Development Instructions
 
