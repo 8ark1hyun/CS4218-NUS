@@ -50,6 +50,13 @@ Import sample data:
 1. In the root directory, run `npm run dev`
 1. Your browser should automatically open to <http://localhost:3000/>
 
+## Unit Testing
+
+In the root directory,
+- run `npm run test` for all tests
+- run `npm run test:frontend` for the frontend
+- run `npm run test:backend` for the frontend
+
 ---
 
 # Deliverables
